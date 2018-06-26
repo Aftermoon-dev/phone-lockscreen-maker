@@ -1,5 +1,5 @@
 # Phone Lockscreen Maker 
-Copyright (C) 2018 Darkhost (darkhost225gmail.com) 
+Copyright (C) 2018 Darkhost (darkhost225@gmail.com) 
 * License : MIT License
 * 이 웹 페이지는 스마트폰 잠금 화면을 간편하게 만들 수 있도록 하는 목적으로 개발되었습니다.
 
